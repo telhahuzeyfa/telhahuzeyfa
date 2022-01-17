@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science.
 
-![Huzeyfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=telhahuzeyfa&show_icons=true&theme=radical)
+![Huzeyfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=telhahuzeyfa&show_icons=true&theme=radical&count_private=true)
 
 <h3>🛠 Tech Stack</h3>
 
