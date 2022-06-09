@@ -1,10 +1,21 @@
-<h2> Hi there! My name is Huzeyfa </h2>
+Hi there 👋
+My name is Huzeyfa and I'm a Computer Science student from Washington DC. Here's some info about me!
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Android/Full Stack Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science.
+
+⚡ Work experience: <br>
+
+- Software Engineer intern at PayPal [Remote. Summer 2022]
+- CodePath Cybersecurity - Cyber Security Tech Fellow [Remote. Summer/Fall 2021]
+- Teaching Assistant at DMV Tutorial Service - Taught 2nd-grade kids the foundation of coding using [Scratch](https://scratch.mit.edu/) [Remote. Fall/Spring 2021]
+
+🔭 Current project:
+- [FootbalLab](https://github.com/telhahuzeyfa/FootbalLab.git) (Kotlin + Android Studio)
+
 
 <h3>🛠 Tech Stack</h3>
 
