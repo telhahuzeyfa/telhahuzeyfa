@@ -11,7 +11,6 @@ My name is Huzeyfa and I'm a Computer Science student from Washington DC. Here's
 
 - Software Engineer intern at PayPal [Remote. Summer 2022]
 - CodePath Cybersecurity - Cyber Security Tech Fellow [Remote. Summer/Fall 2021]
-- Teaching Assistant at DMV Tutorial Service - Taught 2nd-grade kids the foundation of coding using [Scratch](https://scratch.mit.edu/) [Remote. Fall/Spring 2021]
 
 🔭 Current project:
 - [FootbalLab](https://github.com/telhahuzeyfa/FootbalLab.git) (Kotlin + Android Studio)
