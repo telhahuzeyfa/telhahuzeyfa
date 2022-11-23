@@ -13,7 +13,7 @@ My name is Huzeyfa and I'm a Computer Science student from Washington DC. Here's
 - CodePath Cybersecurity - Cyber Security Tech Fellow [Remote. Summer/Fall 2021]
 
 🔭 Current project:
-- [FootbalLab](https://github.com/telhahuzeyfa/FootbalLab.git) (Kotlin + Android Studio)
+- [SecuFoam](https://github.com/telhahuzeyfa/SecuFoam.git) (Kotlin + Android Studio)
 
 
 <h3>🛠 Tech Stack</h3>
